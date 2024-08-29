@@ -24,8 +24,9 @@ Hi everyone, I'm a validator with a lot of experience) You can see it from my pr
 
 ## Content
 
-| dWallet Network | [Zero Trust Protocols (ZTPs)](https://medium.com/@keansel3/zero-trust-protocols-ztps-how-they-work-and-why-they-matter-0625d8bfcc39) |
+| Project | Docs |
 | --- | --- |
+| dWallet Network | [Zero Trust Protocols (ZTPs)](https://medium.com/@keansel3/zero-trust-protocols-ztps-how-they-work-and-why-they-matter-0625d8bfcc39) |
 | dWallet Network | [dWallet Installation Guide](https://keansel3.gitbook.io/keansel3/dwallet-network/dwallet-installation-guide) |
 | 0G Labs | [Guide: 0g labs Storage Node Setup](https://medium.com/@keansel3/guide-0g-labs-storage-node-setup-5ef79ea6ae30) |
 | 0G Labs | [Guide: 0g labs Validator Node Setup](https://medium.com/@keansel3/guide-0g-labsvalidator-node-setup-e75153504bf4) | 
